@@ -37,6 +37,13 @@
       树中的所有值 互不相同 。
       给定的树为二叉搜索树。
 
+### 解法思路
+* DFS迭代法
+ * 时间复杂度O(n)
+ * 空间复杂度O(height)
+* 递归法
+ * 时间复杂度O(n)
+ * 空间复杂度O(n)
 
 来源：力扣（LeetCode）\
 链接：https://leetcode-cn.com/problems/convert-bst-to-greater-tree \
