@@ -38,11 +38,11 @@
 
 ### 解法思路
 * DFS迭代法
- * 时间复杂度O(n)
- * 空间复杂度O(height)
+  * 时间复杂度O(n)
+  * 空间复杂度O(height)
 * 递归法
- * 时间复杂度O(n)
- * 空间复杂度O(n)
+  * 时间复杂度O(n)
+  * 空间复杂度O(n)
 
 来源：力扣（LeetCode）\
 链接：https://leetcode-cn.com/problems/convert-bst-to-greater-tree \
